@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik09kung_0291.png"; bbox 0 0 1991 3261; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 8 9 805 71">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 8 9 805 71">
+     <span class='ocr_line' id='line_1_1' title="bbox 8 9 805 71; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 8 70 12 71; x_wconf 75' lang='grc'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 55 9 207 56; x_wconf 65' lang='grc' dir='ltr'>Ξὲ</span> <span class='ocrx_word' id='word_1_3' title='bbox 223 11 300 56; x_wconf 62' lang='grc' dir='ltr'>Ξ,</span> <span class='ocrx_word' id='word_1_4' title='bbox 322 11 614 58; x_wconf 52' lang='grc' dir='ltr'>ωεέπωα</span> <span class='ocrx_word' id='word_1_5' title='bbox 629 11 664 57; x_wconf 67' lang='grc' dir='ltr'>φ</span> <span class='ocrx_word' id='word_1_6' title='bbox 685 11 747 56; x_wconf 58' lang='lat' dir='ltr'>zm</span> <span class='ocrx_word' id='word_1_7' title='bbox 763 11 805 58; x_wconf 65' lang='grc' dir='ltr'>ω.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 17 1918 3215">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 17 1918 3215">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 17 1918 3215; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 0 17 1918 3215; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

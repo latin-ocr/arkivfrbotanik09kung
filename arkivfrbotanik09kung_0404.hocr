@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik09kung_0404.png"; bbox 0 0 1991 3261; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 144 94 1062 137">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 144 94 1062 137">
+     <span class='ocr_line' id='line_1_1' title="bbox 144 94 1062 137; baseline -0.01 -2"><span class='ocrx_word' id='word_1_1' title='bbox 144 100 285 137; x_wconf 55' lang='lat' dir='ltr'>ARKIV</span> <span class='ocrx_word' id='word_1_2' title='bbox 316 94 406 135; x_wconf 67' lang='lat' dir='ltr'>FOR</span> <span class='ocrx_word' id='word_1_3' title='bbox 437 98 656 133; x_wconf 67' lang='lat' dir='ltr'>BOTANIK.</span> <span class='ocrx_word' id='word_1_4' title='bbox 713 96 845 130; x_wconf 71' lang='lat' dir='ltr'>ssAND</span> <span class='ocrx_word' id='word_1_5' title='bbox 874 95 904 128; x_wconf 63' lang='grc' dir='ltr'>ἕ),</span> <span class='ocrx_word' id='word_1_6' title='bbox 936 94 1003 127; x_wconf 74' lang='lat' dir='ltr'>N10</span> <span class='ocrx_word' id='word_1_7' title='bbox 1034 96 1062 128; x_wconf 76' lang='lat'>5.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 194 137 1991 3024">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 194 137 1991 3024">
+     <span class='ocr_line' id='line_1_2' title="bbox 194 137 1991 3024"><span class='ocrx_word' id='word_1_8' title='bbox 194 137 1991 3024; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

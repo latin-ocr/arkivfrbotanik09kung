@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik09kung_0805.png"; bbox 0 0 1991 3261; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 99 1792 2839">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 99 1792 2839">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 99 1792 2839; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 0 99 1792 2839; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1813 2375 1844 2951">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1813 2375 1844 2951">
+     <span class='ocr_line' id='line_1_2' title="bbox 1813 2375 1844 2951; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 1814 2869 1837 2951; x_wconf 66' lang='grc' dir='ltr'>Αυῒο.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1813 2670 1841 2846; x_wconf 73' lang='lat' dir='ltr'>Cederquis’cs</span> <span class='ocrx_word' id='word_1_4' title='bbox 1814 2582 1838 2655; x_wconf 73' lang='lat' dir='ltr'>Graf.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1813 2481 1844 2567; x_wconf 57' lang='lat' dir='ltr'>AB„</span> <span class='ocrx_word' id='word_1_6' title='bbox 1815 2375 1839 2460; x_wconf 67' lang='lat' dir='ltr'>Sthlm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1858 1522 1903 2169">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1858 1522 1903 2169">
+     <span class='ocr_line' id='line_1_3' title="bbox 1858 1522 1903 2169; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 1859 2143 1892 2169; x_wconf 87' lang='lat'>1.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1859 1870 1903 2112; x_wconf 79' lang='lat' dir='ltr'>Polypodium</span> <span class='ocrx_word' id='word_1_9' title='bbox 1860 1690 1892 1841; x_wconf 78' lang='lat' dir='ltr'>incisum</span> <span class='ocrx_word' id='word_1_10' title='bbox 1858 1590 1893 1659; x_wconf 87' lang='lat' dir='ltr'>Sw.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1879 1522 1882 1561; x_wconf 96' lang='lat'><strong>—</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1855 869 1901 1489">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1855 869 1901 1489">
+     <span class='ocr_line' id='line_1_4' title="bbox 1855 869 1901 1489; textangle 90"><span class='ocrx_word' id='word_1_12' title='bbox 1859 1459 1891 1489; x_wconf 72' lang='lat'>2.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1856 1183 1901 1429; x_wconf 80' lang='lat' dir='ltr'>Polypodiurn</span> <span class='ocrx_word' id='word_1_14' title='bbox 1858 968 1891 1154; x_wconf 77' lang='lat' dir='ltr'>curvatum</span> <span class='ocrx_word' id='word_1_15' title='bbox 1855 869 1889 939; x_wconf 85' lang='lat' dir='ltr'>Sw.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1618 46 1765 82">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1618 46 1765 82">
+     <span class='ocr_line' id='line_1_5' title="bbox 1618 46 1765 82; baseline -0.007 0"><span class='ocrx_word' id='word_1_16' title='bbox 1618 47 1699 82; x_wconf 71' lang='lat' dir='ltr'>Taf.</span> <span class='ocrx_word' id='word_1_17' title='bbox 1730 46 1765 81; x_wconf 80' lang='lat'>3.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
